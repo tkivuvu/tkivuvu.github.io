@@ -92,7 +92,7 @@ Want to connect or collaborate?
 
 * **Email**: [t.kivuvu@yahoo.com](mailto:t.kivuvu@yahoo.com)
 * **GitHub**: [@tkivuvu](https://github.com/tkivuvu)
-* **LinkedIn**: [Thibaut Kivuvu]([https://www.linkedin.com/in/thibaut-kivuvu-aa5459375/])
+* **LinkedIn**: [Thibaut Kivuvu](https://www.linkedin.com/in/thibaut-kivuvu-aa5459375/)
 
 Or use the contact form on [contact.html](https://tkivuvu.github.io/contact.html) — messages go directly to my inbox via Formspree.
 
