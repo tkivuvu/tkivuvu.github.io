@@ -1,4 +1,4 @@
-# Thibault Kivuvu • Portfolio Website 🌐
+# Thibaut Kivuvu • Portfolio Website 🌐
 
 My personal portfolio website showcasing my background, skills, and CS50-inspired projects.
 
@@ -92,7 +92,7 @@ Want to connect or collaborate?
 
 * **Email**: [t.kivuvu@yahoo.com](mailto:t.kivuvu@yahoo.com)
 * **GitHub**: [@tkivuvu](https://github.com/tkivuvu)
-* **LinkedIn**: [Thibault Kivuvu](https://www.linkedin.com/in/thibault-kivuvu-aa5459375/)
+* **LinkedIn**: [Thibaut Kivuvu]([https://www.linkedin.com/in/thibaut-kivuvu-aa5459375/])
 
 Or use the contact form on [contact.html](https://tkivuvu.github.io/contact.html) — messages go directly to my inbox via Formspree.
 
@@ -111,7 +111,7 @@ Suggestions for accessibility, mobile UX, or additional animations are welcome.
 
 ## 📄 License
 
-MIT © 2025 Thibault Kivuvu
+MIT © 2025 Thibaut Kivuvu
 This project is open source and free to use — see LICENSE file for full terms.
 
 ---
